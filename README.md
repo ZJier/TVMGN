@@ -1,2 +1,2 @@
 # TVMGN
-This work is ongoing.
+This code will be open sourced soon.
